@@ -7,3 +7,4 @@ public class Concreteclass extends AbstractClass{
         System.out.println("this is concreteclass");
     }
 }
+// i have made the changes for the 1st time -2;
