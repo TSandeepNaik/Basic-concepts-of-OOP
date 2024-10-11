@@ -21,3 +21,4 @@ public class SampleClass implements InterfaceClsdd, Sample2{
         System.out.println("it is demo 4");
     }
 }
+//

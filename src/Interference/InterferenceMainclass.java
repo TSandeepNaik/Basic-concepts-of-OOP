@@ -13,7 +13,7 @@ public class InterferenceMainclass {
     public static void main(String[] args) {
        SampleClass s1 = new SampleClass();
        s1.demo1();
-       s1.demo2();
+       s1.demo2();   //
        s1.demo3();
        s1.demo4();
     }
